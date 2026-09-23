@@ -1,5 +1,0 @@
-streamlit
-requests
-polars
-duckdb
-supabase
